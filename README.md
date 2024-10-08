@@ -12,13 +12,6 @@ A simple web server built with Golang that serves static files, handles form sub
 
 ## Project Structure
 
-go-server/
-│
-├── static/
-│   ├── index.html   # Static page
-│   └── form.html    # Form for user input
-├── main.go          # Go web server code
-```
 
 ## Setup
 1. **Clone the repository**:
