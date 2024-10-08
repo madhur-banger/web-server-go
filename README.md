@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Go Web Server
 
 A simple web server built with Golang that serves static files, handles form submissions, and responds to GET and POST requests.
@@ -11,7 +11,7 @@ A simple web server built with Golang that serves static files, handles form sub
 - Responds to GET requests.
 
 ## Project Structure
-```
+
 go-server/
 │
 ├── static/
